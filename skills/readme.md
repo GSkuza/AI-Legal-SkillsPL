@@ -1,6 +1,6 @@
-# Zawartość katalogu `skills`
+# Zawartość repozytorium
 
-Katalog zawiera sześć samodzielnych pakietów umiejętności dla pracy z polskimi i unijnymi zagadnieniami prawnymi. Każdy plik `.skill` jest archiwum ZIP z katalogiem głównym o nazwie umiejętności i plikiem `SKILL.md`, który opisuje jej zastosowanie oraz sposób działania. W zależności od pakietu archiwum zawiera także materiały referencyjne, skrypty, schematy, szablony lub testy.
+Repozytorium zawiera sześć samodzielnych pakietów umiejętności dla pracy z polskimi i unijnymi zagadnieniami prawnymi. Każdy plik `.skill` jest archiwum ZIP z katalogiem głównym o nazwie umiejętności i plikiem `SKILL.md`, który opisuje jej zastosowanie oraz sposób działania. W zależności od pakietu archiwum zawiera także materiały referencyjne, skrypty, schematy, szablony lub testy.
 
 ## Pakiety
 
