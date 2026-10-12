@@ -1,6 +1,6 @@
 # Zawartość repozytorium
 
-Repozytorium zawiera sześć samodzielnych pakietów umiejętności dla pracy z polskimi i unijnymi zagadnieniami prawnymi. Każdy plik `.skill` jest archiwum ZIP z katalogiem głównym o nazwie umiejętności i plikiem `SKILL.md`, który opisuje jej zastosowanie oraz sposób działania. W zależności od pakietu archiwum zawiera także materiały referencyjne, skrypty, schematy, szablony lub testy.
+Repozytorium zawiera sześć samodzielnych pakietów umiejętności dla pracy z polskimi i unijnymi zagadnieniami prawnymi. Każdy plik `.skill` jest archiwum ZIP z katalogiem głównym o nazwie umiejętności i kompletną zawartością potrzebną do użycia offline.
 
 ## Pakiety
 
@@ -41,7 +41,7 @@ Pomaga ustalać status aktów UE i powiązanych z nimi polskich aktów wdrażaj�
 
 ### `legal-abduction.skill` — hipotezy konkurencyjne i macierz dowodów
 
-Wspiera etapowe porządkowanie dokumentów, twierdzeń, obserwacji i hipotez oraz przygotowanie macierzy dowodów i planu testów. Jest oznaczony jako wersja ewaluacyjna przeznaczona wyłącznie do syntetycznych przypadków. W pakiecie znajdują się:
+Wspiera etapowe porządkowanie dokumentów, twierdzeń, obserwacji i hipotez oraz przygotowanie macierzy dowodów i planu testów. Jest oznaczony jako wersja ewaluacyjna przeznaczona wyłącznie do sygnalizowania możliwych hipotez i wymaga oceny przez człowieka.
 
 - instrukcje i dokumentacja użycia, instalacji, formatu pakietu sprawy oraz ograniczeń;
 - moduły Pythona w `legal_abduction/` i skrypt uruchomieniowy `la.py`;
@@ -53,9 +53,13 @@ Umiejętność proponuje wyniki do oceny przez człowieka — nie zatwierdza ich
 
 ### `szukaj-orzeczen.skill` — wyszukiwanie orzeczeń
 
-Służy do wyszukiwania orzeczeń sądowych i przygotowywania raportów tematycznych na podstawie serwisu SAOS oraz orzeczeń NSA. Pakiet zawiera instrukcję (`SKILL.md`) i skrypty do wyszukiwania orzeczeń, pobierania wyników z SAOS, pobierania danych z serwisu NSA oraz tworzenia raportu tematycznego.
+Służy do wyszukiwania orzeczeń sądowych i przygotowywania raportów tematycznych na podstawie serwisu SAOS oraz orzeczeń NSA. Pakiet zawiera instrukcję (`SKILL.md`) i skrypty do wyszukiwania orzeczeń oraz budowania raportów.
 
 ## Uwagi
 
 - Pliki `.skill` są samodzielnymi archiwami; skrypty i materiały pomocnicze znajdują się wewnątrz odpowiedniego archiwum.
 - Umiejętności wspierają analizę i weryfikację materiałów, ale ich wyniki mają charakter pomocniczy i nie zastępują porady prawnika ani rzecznika patentowego.
+
+## Licencja
+
+Repozytorium jest udostępnione na licencji MIT. Zobacz plik `LICENSE`.
