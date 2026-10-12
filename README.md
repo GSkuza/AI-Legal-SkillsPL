@@ -1,5 +1,7 @@
 # Zawartość repozytorium
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Repozytorium zawiera sześć samodzielnych pakietów umiejętności dla pracy z polskimi i unijnymi zagadnieniami prawnymi. Każdy plik `.skill` jest archiwum ZIP z katalogiem głównym o nazwie umiejętności i kompletną zawartością potrzebną do użycia offline.
 
 ## Pakiety
