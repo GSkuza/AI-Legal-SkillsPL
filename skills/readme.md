@@ -39,7 +39,7 @@ Pomaga ustalać status aktów UE i powiązanych z nimi polskich aktów wdrażaj�
 - skrypty do identyfikowania aktów, parsowania tekstu oraz ekstrakcji dat i relacji;
 - testy jednostkowe dla skryptów.
 
-### `legal-abduction.skill` — hipotezy konkurencyjne i macierz dowodów
+### `legal-abductionv020.skill` — hipotezy konkurencyjne i macierz dowodów
 
 Wspiera etapowe porządkowanie dokumentów, twierdzeń, obserwacji i hipotez oraz przygotowanie macierzy dowodów i planu testów. Jest oznaczony jako wersja ewaluacyjna przeznaczona wyłącznie do syntetycznych przypadków. W pakiecie znajdują się:
 
